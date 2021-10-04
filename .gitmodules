@@ -1,4 +1,4 @@
 [submodule "lfsrepo"]
 	path = lfsrepo
 	url = https://github.com/AChubatova/lfsrepo
-	branch = .
+	branch = main
